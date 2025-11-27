@@ -9,27 +9,27 @@
     {
     "id": "project_002",
     "judul": "html",
-     "gambar1": "https://luthfianhar.github.io/asset/assets/Certifications/html.png"
+     "gambar": "https://luthfianhar.github.io/asset/assets/Certifications/html.png"
     },
 
 
     {
     "id": "project_003",
     "judul": "javascript",
-      "gambar2": "https://luthfianhar.github.io/asset/assets/Certifications/javascript.png"
+      "gambar": "https://luthfianhar.github.io/asset/assets/Certifications/javascript.png"
     },
 
 
     {
     "id": "project_004",
     "judul": "react",
-       "gambar3": "https://luthfianhar.github.io/asset/assets/Certifications/react.png"
+       "gambar": "https://luthfianhar.github.io/asset/assets/Certifications/react.png"
     },
 
 
     {
     "id": "project_005",
     "judul": "web101",
-     "gambar4": "https://luthfianhar.github.io/asset/assets/Certifications/web101.png"
+     "gambar": "https://luthfianhar.github.io/asset/assets/Certifications/web101.png"
     }
 ]
