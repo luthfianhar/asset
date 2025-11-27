@@ -1,10 +1,35 @@
-{
+[
+    {
     "id": "project_001",
     "judul": "Projects",
-    "deskripsi": "Saya adalah pelajar yang memiliki minat tinggi dalam dunia teknologi, terutama pengembangan web. Saya fokus dalam membangun antarmuka yang modern, responsif, dan mudah digunakan. Saya juga senang bereksperimen dengan teknologi baru dan meningkatkan kemampuan saya dari waktu ke waktu.",
-    "gambar": "https://luthfianhar.github.io/asset/assets/dicoding.png",
-     "gambar1": "",
-      "gambar2": "",
-       "gambar3": "",
-        "gambar4": "https://luthfianhar.github.io/asset/assets/web101.png"
-}
+    "gambar": "https://luthfianhar.github.io/asset/assets/Certifications/dicoding.png"
+    },
+
+
+    {
+    "id": "project_002",
+    "judul": "Projects",
+     "gambar1": "https://luthfianhar.github.io/asset/assets/Certifications/html.png"
+    },
+
+
+    {
+    "id": "project_003",
+    "judul": "Projects",
+      "gambar2": "https://luthfianhar.github.io/asset/assets/Certifications/javascript.png"
+    },
+
+
+    {
+    "id": "project_004",
+    "judul": "Projects",
+       "gambar3": "https://luthfianhar.github.io/asset/assets/Certifications/react.png"
+    },
+
+
+    {
+    "id": "project_005",
+    "judul": "Projects",
+     "gambar4": "https://luthfianhar.github.io/asset/assets/web101.png"
+    }
+]
