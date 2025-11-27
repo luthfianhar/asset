@@ -7,11 +7,11 @@
 {
     "id": "project_002",
     "judul": "Projects",
-     "gambar1": "https://luthfianhar.github.io/asset/assets/Projects/kalkulator.png"
+     "gambar": "https://luthfianhar.github.io/asset/assets/Projects/kalkulator.png"
 },
 {
     "id": "project_003",
     "judul": "Projects",
-       "gambar2": "https://luthfianhar.github.io/asset/assets/Projects/portfolio.png"
+    "gambar": "https://luthfianhar.github.io/asset/assets/Projects/portfolio.png"
 }
 ]
