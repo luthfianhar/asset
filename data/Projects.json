@@ -1,17 +1,17 @@
 [
 {
     "id": "project_001",
-    "judul": "Projects",
+    "judul": "data",
     "gambar": "https://luthfianhar.github.io/asset/assets/Projects/data.png"
 },
 {
     "id": "project_002",
-    "judul": "Projects",
+    "judul": "kalkulator",
      "gambar": "https://luthfianhar.github.io/asset/assets/Projects/kalkulator.png"
 },
 {
     "id": "project_003",
-    "judul": "Projects",
+    "judul": "portfolio",
     "gambar": "https://luthfianhar.github.io/asset/assets/Projects/portfolio.png"
 }
 ]
