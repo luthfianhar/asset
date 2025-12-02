@@ -1,22 +1,22 @@
 [
 {
     "id": "Skills_001",
-    "gambar": "https://luthfianhar.github.io/asset/assets/Skills/a.jpg"
+    "gambar": "https://luthfianhar.github.io/asset/assets/Skills/css.png"
 },
 {
     "id": "Skills_002",
-     "gambar": "https://luthfianhar.github.io/asset/assets/Skills/b.jpg"
+     "gambar": "https://luthfianhar.github.io/asset/assets/Skills/HTML.png"
 },
 {
     "id": "Skills_003",
-    "gambar": "https://luthfianhar.github.io/asset/assets/Skills/c.jpg"
+    "gambar": "https://luthfianhar.github.io/asset/assets/Skills/javascript.png"
 },
 {
     "id": "Skills_004",
-    "gambar": "https://luthfianhar.github.io/asset/assets/Skills/d.jpg"
+    "gambar": "https://luthfianhar.github.io/asset/assets/Skills/react.png"
 },
 {
     "id": "Skills_005",
-    "gambar": "https://luthfianhar.github.io/asset/assets/Skills/e.jpg"
+    "gambar": "https://luthfianhar.github.io/asset/assets/Skills/tailwind.png"
 }
 ]
